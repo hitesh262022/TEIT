@@ -1,2 +1,2 @@
-echo "NEHA DESHMUKH"
-mkdir /home/neha/APSIT
+echo "Hitesh Sachdev"
+mkdir /home/hitesh/APSIT
